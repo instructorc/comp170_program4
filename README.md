@@ -17,9 +17,9 @@ At the conslusion of selecting all items, the program will display the total num
 Your program should operate similarly to the program shown in the .gif below
 The .gif below show three iterations of running the program
 
-![Alt text](https://instructorc.github.io/site/slides/java/images/ds/program_4_sample_output.gif "Program 4 Execution Example")
+![Alt text](https://instructorc.github.io/site/slides/java/images/ds/prog4_output.gif "Program 4 Execution Example")
 
-**ARRAY CANNOT BE USED FOR THIS PROGRAM**
+**YOU MUST MAKE USE MULTI-DIMENSIONAL ARRAY(S) FOR THIS PROGAM**
 
 | Product Row | Column P               | Column N                       | Column R           |
 |-------------|------------------------|-----------------------------------------------------|
