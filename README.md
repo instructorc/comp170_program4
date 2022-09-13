@@ -22,7 +22,7 @@ The .gif below show three iterations of running the program
 **YOU MUST MAKE USE MULTI-DIMENSIONAL ARRAY(S) FOR THIS PROGAM**
 
 | Product Row | Column P               | Column N                       | Column R           |
-|-------------|------------------------|-----------------------------------------------------|
+|-------------|------------------------|--------------------------------|--------------------|
 | 0           | Garrett Mix ($14.99)   |  Pecan Carmel Crisp ($10.99)   | Plain ($6.99)      |
 | 1           | Caramel Crisp ($16.99) |  Cashew Carmel Crisp ($9.99)   | Buttery ($8.99     |
 | 2           | Cheese Corn ($12.99)   |  Almond Carmel Crisp ($11.99)  | Sweet Corn ($7.99) |                           
