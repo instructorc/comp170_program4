@@ -6,7 +6,7 @@ The program should enforce that only product row numbers and column letters can 
 like until they enter a sentinel value.
    
 
-At the conslusion of selecting all items, the program will display the total number of items purchased and the total cost.
+At the conclusion of selecting all items, the program will display the total number of items purchased and the total cost.
 
 **Hints**
 - Make use of two dimensional arrays.
