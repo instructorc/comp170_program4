@@ -20,7 +20,7 @@ The .gif below show three iterations of running the program
 
 ![Alt text](https://instructorc.github.io/site/slides/java/images/ds/program_4_sample_output.gif "Program 4 Execution Example")
 
-**ARRAY CANNOT BE USED FOR THIS PROGRAM**
+
 
 | Product Row | Column P               | Column N                       | Column R           |
 |-------------|------------------------|-----------------------------------------------------|
