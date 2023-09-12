@@ -88,25 +88,25 @@ Summary of Items Purchased
 
 *** Listed below is a list of requirements that need to be completed for your program
 
-** Requirement 1 (5 Points) **
+## Requirement 1 (5 Points)
 Variables are properly declared and initialized; Use of Scanner Object to read input from console. Make use of constant final variables. 
 Whenever possible, make sure to declare all variables that will hold data along with declaring final variables that will not change during runtime.
 Proper structure used for allowing the end-user to continously enter new items until they enter a sentinel value that indicates they are finished
 
-** Requirement 2 (5 Points) **
+## Requirement 2 (5 Points) 
 Input/Output of all necessary information for each item entry; Program properly makes use of arrays/multi-dimensional arrays to structure data;
 Program restricts the use of the row numbers and column characters shown in chart (Validating Data). Program displays each item and cost for each iteration.
 
-** Requirement 3 (5 Points) **
+## Requirement 3 (5 Points)
 At the conclusion of all entries, the program provides a 1)Total number of items selected and  2) Total price of all items
 
-** Requirement 4 (5 Points) **
+## Requirement 4 (5 Points)
 Style - Proper use of comments, spacing, in program; use of descriptive variable names
 
-** Requirement 5 (5 Points) **
+## Requirement 5 (5 Points)
 Program is submitted by the due date listed and pushed to assigned GitHub Repository; Repository contains a minimum of three commits.
 
-** Extra Credit (2 Points) **
+## Extra Credit (2 Points)
 Producing the chart is optional, but for anyone who includes the chart, 2pts. of extra credit will be granted. _Hint: Consider use of the tab escape sequence and nested looping structures_
 
 
