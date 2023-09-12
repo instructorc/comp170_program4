@@ -107,8 +107,19 @@ Style - Proper use of comments, spacing, in program; use of descriptive variable
 Program is submitted by the due date listed and pushed to assigned GitHub Repository; Repository contains a minimum of three commits.
 
 ## Extra Credit (2 Points)
-Producing the chart is optional, but for anyone who includes the chart, 2pts. of extra credit will be granted. _Hint: Consider use of the tab escape sequence and nested looping structures_
+Include logic that takes into account the stock level of each product.  Assume that each product is stocked with a maximum of 5 items.  When the stock-level for a product reaches below 3, an additional message will output under the Summary of Items Purchased notifying the end-use of how many items have requested new products along with the vendor purchase cost.  Assume the vendor purchase the product at 50% of retail price.  See example output below for what will output if Pecan Carmel Crisp has 2 item left and Cheese Corn has 1 item left.
 
+## Sample output below:
+```
+Summary of Items Purchased
+*****************************
+7 items purchased for a total cost of $88.93
+
+*****************************
+Item(s) sent for Restock
+   - 3 Pecan Carmel Crisp (Restock cost: $16.49)
+   - 4 Cheese Corn (Restock cost: $51.96)
+```
 
 ## Submission
 Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted.
