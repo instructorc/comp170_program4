@@ -28,62 +28,6 @@ The .gif below show three iterations of running the program
 | 2           | Cheese Corn ($12.99)   |  Almond Carmel Crisp ($11.99)  | Sweet Corn ($7.99) |                           
 
 
-## Sample output below:
-```
-Welcome to the Garrett's Popcorn Vending Machine!
-
-Row     Column P                Column N                        Column R
-0       Garrett Mix             Pecan Carmel Crisp              Plain
-1       Caramel Crisp           Cashew Carmel Crisp             Buttery
-2       Cheese Corn             Almond Carmel Crisp             Sweet Corn       
-Listed above are items you can select.
-Please enter row of desired product: 5
-Invalid Entry, Please enter row of desired product: 4
-Invalid Entry, Please enter row of desired product: 3
-Invalid Entry, Please enter row of desired product: 2
-Please enter column of desired product: W
-Invalid Entry, Please enter either capital P, N or R of desired product: P
-You enter selected Cheese Corn for a price of 12.99
-
-Row     Column P                Column N                        Column R
-0       Garrett Mix             Pecan Carmel Crisp              Plain
-1       Caramel Crisp           Cashew Carmel Crisp             Buttery
-2       Cheese Corn             Almond Carmel Crisp             Sweet Corn       
-Listed above are items you can select.
-Please enter row of desired product or -1 to EXIT : 0
-Please enter column of desired product: N
-You enter selected Pecan Carmel Crisp for a price of 10.99
-
-Row     Column P                Column N                        Column R
-0       Garrett Mix             Pecan Carmel Crisp              Plain
-1       Caramel Crisp           Cashew Carmel Crisp             Buttery
-2       Cheese Corn             Almond Carmel Crisp             Sweet Corn       
-Listed above are items you can select.
-Please enter row of desired product or -1 to EXIT : 2
-Please enter column of desired product: P
-You enter selected Cheese Corn for a price of 12.99
-
-Row     Column P                Column N                        Column R
-0       Garrett Mix             Pecan Carmel Crisp              Plain
-1       Caramel Crisp           Cashew Carmel Crisp             Buttery
-2       Cheese Corn             Almond Carmel Crisp             Sweet Corn
-Listed above are items you can select.
-Please enter row of desired product or -1 to EXIT : 2
-Please enter column of desired product: P
-You enter selected Cheese Corn for a price of 12.99
-
-Row     Column P                Column N                        Column R
-0       Garrett Mix             Pecan Carmel Crisp              Plain
-1       Caramel Crisp           Cashew Carmel Crisp             Buttery
-2       Cheese Corn             Almond Carmel Crisp             Sweet Corn
-Listed above are items you can select.
-Please enter row of desired product or -1 to EXIT : -1
-
-Summary of Items Purchased
-*****************************
-4 items purchased for a total cost of $49.96
-```
-
 
 
 *** Listed below is a list of requirements that need to be completed for your program
