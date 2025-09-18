@@ -66,15 +66,11 @@ Item(s) sent for Restock
 ```
 
 ## Submission Instructions for Program 4
-For Program 4, you will need to submit two items:
+For Program 4, you will need to submit one item:
 
 1. **The GitHub URL to your Repository.**
    - Your code should be reflected in the assigned GitHub repository provided to you by the instructor.  In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted.
 
-2. **A recording of you explaining each line of your code.**
-   - You can use any recording tool of your choice, or opt for a free resource like [RecordScreen.io](https://recordscreen.io).
-   - The video doesn't need to be lengthy; just briefly walk through each line of your code.
-   - Save the recorded file to your computer and, for convenience, upload it to your school-issued Office 365 OneDrive account at [office.com](https://www.office.com).
-   - Paste the link to your recording in the assignment comments.
+
 
 
